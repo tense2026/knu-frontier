@@ -43,18 +43,6 @@
 |------|------|
 | **프롬프트** | `alone` |
 | **네거티브** | `blurry, low quality, distorted, text, watermark` |
-| **생성 시간** | 2026-01-23 06:29:21 |
-
-![작품 1](images/session5_1.png)
-
-> AI는 추상적 이미지나 개념을 스스로 생각해내는 창의성이 부족하기 때문에 그 개념의 속성들을 한 ㅂ
-
-#### 작품 2
-
-| 항목 | 내용 |
-|------|------|
-| **프롬프트** | `alone` |
-| **네거티브** | `blurry, low quality, distorted, text, watermark` |
 | **생성 시간** | 2026-01-23 06:29:55 |
 
 ![작품 2](images/session5_2.png)
