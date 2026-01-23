@@ -1,0 +1,37 @@
+-todo
+웹 애플리케이션 개발(나만의 특화 AI 개발)
+LangChain, Groq 사용해 무료 LLM 활용
+SQLite db 사용해 성능 확장
+Tavily API 사용해 웹서칭 구현
+
+지도학습
+라벨링을 통한 명확한 분류체계
+
+비지도학습
+정답이 없이 패턴 발견
+클러스터링, 상관관계 파악 등
+
+강화학습
+보상을 통한 학습
+
+머신러닝 vs 딥러닝
+사람이 특징을 알려줌 vs 스스로 특징을 찾음
+ML은 이유 해석 가능
+딥러닝은 불가(블랙박스)
+ML은 부담 적음
+딥러닝은 대용량 데이터, 고성능 GPU 필요
+
+선형 회귀 -> 상관관계 분석
+로지스틱 회귀 -> OX문제
+SVM
+랜덤포레스트
+-> 다수결 투표로 로지스틱 회귀
+
+Github 사용법
+
+checkout-이전 commit 상태로 돌아감
+임시 branch로 갈라짐
+
+commit-수정사항
+fetch-원격과 수정사항 파악
+push-pull - 원격 repo와 동기화(push는 local->online, pull은 online->push)
